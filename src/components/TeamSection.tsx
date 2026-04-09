@@ -7,10 +7,12 @@ const team = [
   { name: "Dra. Carolina López", roleKey: "team.role.investigadora" },
   { name: "Dr. Lisandro González", roleKey: "team.role.investigador" },
   { name: "Dra. Clarisa Parodi", roleKey: "team.role.posdoc" },
+  { name: "Lic. Lucía Alasia", roleKey: "team.role.doctoral" },
   { name: "Lic. Lucía Capodimonte", roleKey: "team.role.doctoral" },
   { name: "Lic. Jazmín Pennesi", roleKey: "team.role.doctoral" },
   { name: "Lic. Fernanda Romero", roleKey: "team.role.doctoral" },
   { name: "Lic. Brenda Warecki", roleKey: "team.role.doctoral" },
+  { name: "Lautaro Olalla", roleKey: "team.role.doctoral" },
 ];
 
 const TeamSection = () => {
