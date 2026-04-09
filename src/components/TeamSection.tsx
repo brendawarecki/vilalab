@@ -12,7 +12,7 @@ const team = [
   { name: "Lic. Jazmín Pennesi", roleKey: "team.role.doctoral" },
   { name: "Lic. Fernanda Romero", roleKey: "team.role.doctoral" },
   { name: "Lic. Brenda Warecki", roleKey: "team.role.doctoral" },
-  { name: "Lautaro Olalla", roleKey: "team.role.doctoral" },
+  { name: "Lautaro Olalla", roleKey: "team.role.tesinista" },
 ];
 
 const TeamSection = () => {
