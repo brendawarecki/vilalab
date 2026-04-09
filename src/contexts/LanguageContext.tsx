@@ -66,6 +66,7 @@ const translations: Record<string, Record<Lang, string>> = {
   "team.role.investigador": { es: "Investigador", en: "Researcher" },
   "team.role.posdoc": { es: "Becaria Posdoctoral", en: "Postdoctoral Fellow" },
   "team.role.doctoral": { es: "Becaria Doctoral", en: "Doctoral Fellow" },
+  "team.role.tesinista": { es: "Tesinista", en: "Thesis student" },
 
   // Join
   "join.tag": { es: "Unite al Lab", en: "Join the Lab" },
